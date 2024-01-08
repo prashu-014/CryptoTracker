@@ -18,7 +18,7 @@ Whether you're a seasoned investor or a newcomer to the crypto space, CryptoClub
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg](https://www.pngegg.com/en/png-dqpxs)" height="40" alt="tailwindcss logo"  />
+  <img src="https://www.pngegg.com/en/png-dqpxs" height="40" alt="tailwindcss logo"  />
   <img width="12" />
  
 </div>
