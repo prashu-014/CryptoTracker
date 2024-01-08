@@ -11,6 +11,10 @@ Whether you're a seasoned investor or a newcomer to the crypto space, CryptoClub
 
 # Technology Used
 ![download](https://github.com/prashu-014/CryptoTracker/assets/98073443/31a24af7-908e-49dc-b959-55347cdcdc8a)
+![download](https://github.com/prashu-014/CryptoTracker/assets/98073443/d38d43af-9111-47e8-a8c1-c2cf35bc3d99)
+![download](https://github.com/prashu-014/CryptoTracker/assets/98073443/8fffc3a7-e7d3-45d0-b454-7b7634cd00f6)
+![download](https://github.com/prashu-014/CryptoTracker/assets/98073443/29179389-71e6-4dc0-848c-bdfc94890d2e)
+
 
 # Fetures
 
