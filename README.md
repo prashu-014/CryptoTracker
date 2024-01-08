@@ -10,7 +10,7 @@ With a user-friendly interface, the app ensures a cross-platform experience, all
 Whether you're a seasoned investor or a newcomer to the crypto space, CryptoClub equips you with the tools to navigate the market with ease. Stay connected, stay informed, and stay ahead in the ever-evolving cryptocurrency landscape with CryptoClub Web App.
 
 # Technology Used
-https://www.pngwing.com/en/free-png-psdkh
+![download](https://github.com/prashu-014/CryptoTracker/assets/98073443/31a24af7-908e-49dc-b959-55347cdcdc8a)
 
 # Fetures
 
