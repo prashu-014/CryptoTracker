@@ -10,10 +10,24 @@ With a user-friendly interface, the app ensures a cross-platform experience, all
 Whether you're a seasoned investor or a newcomer to the crypto space, CryptoClub equips you with the tools to navigate the market with ease. Stay connected, stay informed, and stay ahead in the ever-evolving cryptocurrency landscape with CryptoClub Web App.
 
 # Technology Used
-![download](https://github.com/prashu-014/CryptoTracker/assets/98073443/31a24af7-908e-49dc-b959-55347cdcdc8a)
-![download](https://github.com/prashu-014/CryptoTracker/assets/98073443/d38d43af-9111-47e8-a8c1-c2cf35bc3d99)
-![download](https://github.com/prashu-014/CryptoTracker/assets/98073443/8fffc3a7-e7d3-45d0-b454-7b7634cd00f6)
-![download](https://github.com/prashu-014/CryptoTracker/assets/98073443/29179389-71e6-4dc0-848c-bdfc94890d2e)
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
 
 # Fetures
