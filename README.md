@@ -21,6 +21,15 @@ Whether you're a seasoned investor or a newcomer to the crypto space, CryptoClub
 
 # Fetures
 
+<ul>
+ <li>Real-Time Data</li>
+ <li>Detailed Information</li>
+ <li>Trending Coins</li>
+ <li>Wishlist Functionality</li>
+ <li>Cross-Platform Experience</li>
+ <li>User friendly Interface</li>
+</ul>
+
 
 ## Project Screen Shot(s)
 
