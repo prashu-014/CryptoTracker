@@ -35,11 +35,9 @@ Whether you're a seasoned investor or a newcomer to the crypto space, CryptoClub
 
 ![landingPage](https://github.com/prashu-014/CryptoTracker/assets/98073443/0b0c77b7-4764-4a81-a4d7-9aed2dd357c7)
 ![Trending](https://github.com/prashu-014/CryptoTracker/assets/98073443/96e05527-3a29-4a4b-b625-5d35a185f14c)
-![market](https://
-![wishlist](https://github.com/prashu-014/CryptoTracker/assets/98073443/5b424692-8d6d-4201-834a-70d66d7e5fa8)
-github.com/pra
+![market](https://![wishlist](https://github.com/prashu-014/CryptoTracker/assets/98073443/5b424692-8d6d-4201-834a-70d66d7e5fa8)
 ![coinDetail](https://github.com/prashu-014/CryptoTracker/assets/98073443/5c364db3-d96e-4ea9-933c-0724ecb50dbf)
-shu-014/CryptoTracker/assets/98073443/cc0e4004-b88c-434d-be5a-841249db6336)
+
 
 ## Installation and Setup Instructions
 
