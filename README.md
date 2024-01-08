@@ -11,17 +11,12 @@ Whether you're a seasoned investor or a newcomer to the crypto space, CryptoClub
 
 # Technology Used
 
-<div align="left">
- 
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://www.pngegg.com/en/png-dqpxs" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
- 
-</div>
+<ul>
+ <li>React</li>
+ <li>Bootstrap</li>
+ <li>API</li>
+ <li>SweetAlert2</li>
+</ul>
 
 
 # Fetures
